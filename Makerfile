@@ -1,4 +1,4 @@
-# Makefile for RedKangarooOS
+# Makefile for RedKangarooBootlLoader
 
 .PHONY: all fmt check test clippy build clean
 
