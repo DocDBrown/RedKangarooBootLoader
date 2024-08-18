@@ -1,11 +1,11 @@
-# RedKangarooOS
+# RedKangarooBootLoader
 
 ![License](https://img.shields.io/badge/license-AGPLv3-blue)
 ![Test and Lint Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/fmt-clippy-test.yaml)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/build-cd.yml)
 ![Contributors](https://img.shields.io/github/contributors/DocDBrown/RedKangarooOS)
 
-RedKangarooOS is an open-source, Rust-based operating system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible OS platform built entirely with Rust. This is a long term project...
+RedKangarooBootLoader is an open-source, Rust-based bootloadeer system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible bootloader built entirely with Rust for RedKangarooOS. This is a long term project...
 
 Our Website is at www.redkangaroo-os.com
 If you can connect try http://130.198.99.76
@@ -43,7 +43,7 @@ Before you can build and run RedKangarooOS, you need to install the following to
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/DocDBrown/RedKangarooOS.git
+   git clone https://github.com/DocDBrown/RedKangarooBootLoader.git
    cd RedKangarooOS
    ```
 
