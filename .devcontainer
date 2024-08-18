@@ -1,5 +1,5 @@
 {
-  "name": "RedKangarooOS",
+  "name": "RedKangarooBootLoader",
   "image": "mcr.microsoft.com/devcontainers/rust:0-1-bullseye",
   "postCreateCommand": "cargo build",
   "customizations": {
