@@ -5,7 +5,7 @@
 ![Build Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooBootLoader/build-cd.yml)
 ![Contributors](https://img.shields.io/github/contributors/DocDBrown/RedKangarooBootLoader)
 
-RedKangarooBootLoader is an open-source, Rust-based bootloadeer system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible bootloader built entirely with Rust for RedKangarooOS. This is a long term project...
+RedKangarooBootLoader is an open-source, Rust-based bootloader system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible bootloader built entirely with Rust for RedKangarooOS. This is a long term project...
 
 Our Website is at www.redkangaroo-os.com
 If you can connect try http://130.198.99.76
@@ -33,7 +33,7 @@ If you can connect try http://130.198.99.76
 
 ### Prerequisites
 
-Before you can build and run RedKangarooOS, you need to install the following tools:
+Before you can build and test the bootlaoder, you need to install the following tools:
 
 - **Rust and Cargo:** Install Rust using [rustup](https://rustup.rs/).
 - **QEMU:** (Optional) If you plan to run the OS in a virtual machine.
