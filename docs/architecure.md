@@ -1,0 +1,1 @@
+explanation of bootloader architecture
