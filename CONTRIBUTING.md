@@ -1,6 +1,6 @@
-# Contributing to RedKangarooOS
+# Contributing to RedKangarooBootLoader
 
-Thank you for considering contributing to RedKangarooOS! We appreciate your interest in improving our open-source Rust-based operating system. Whether you’re here to report bugs, suggest new features, contribute code, or enhance documentation, this guide will help you get started.
+Thank you for considering contributing to RedKangarooBootLoader! We appreciate your interest in improving our open-source Rust-based operating system. Whether you’re here to report bugs, suggest new features, contribute code, or enhance documentation, this guide will help you get started.
 
 The principle of finanical justice will apply to all contributors based on their contribution if this is operating system is comercialised.
 
@@ -24,11 +24,11 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ### Reporting Bugs
 
-If you find a bug in RedKangarooOS, please [open an issue](https://github.com/DocDBrown/RedKangarooOS/issues) and include as much detail as possible:
+If you find a bug in RedKangarooBootLoader, please [open an issue](https://github.com/DocDBrown/RedKangarooBootLoader/issues) and include as much detail as possible:
 
 - Describe the bug and the steps to reproduce it.
 - Provide the expected and actual behavior.
-- Mention the version of RedKangarooOS you are using, along with any relevant environment details.
+- Mention the version of RedKangarooBootLoader you are using, along with any relevant environment details.
 
 ### Suggesting Features
 
@@ -43,4 +43,4 @@ We’re always open to new ideas! If you have a feature request, please [open an
 1. **Fork the repository** to your own GitHub account.
 2. **Clone your fork** to your local machine:
    ```bash
-   git clone https://github.com/DocDBrown/RedKangarooOS.git
+   git clone https://github.com/DocDBrown/RedKangarooBootLoader.git
