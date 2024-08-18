@@ -32,7 +32,7 @@ jobs:
       uses: docker/build-push-action@v4
       with:
         push: true
-        tags: ghcr.io/docdbrown/redkangarooos:latest
+        tags: ghcr.io/docdbrown/redkangaroobootloader:latest
 
     - name: Post build cleanup
       run: docker system prune -f
