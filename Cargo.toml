@@ -1,5 +1,5 @@
 [package]
-name = "red_kangaroo_os"
+name = "red_kangaroo_boot_loader"
 version = "0.1.0"
 authors = ["Duncan Brown <dr.dbrown@icloud.com>"]
 edition = "2021"
