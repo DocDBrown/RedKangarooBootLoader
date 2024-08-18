@@ -1,9 +1,9 @@
 # RedKangarooBootLoader
 
 ![License](https://img.shields.io/badge/license-AGPLv3-blue)
-![Test and Lint Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/fmt-clippy-test.yaml)
-![Build Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooOS/build-cd.yml)
-![Contributors](https://img.shields.io/github/contributors/DocDBrown/RedKangarooOS)
+![Test and Lint Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooBootLoader/fmt-clippy-test.yaml)
+![Build Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooBootLoader/build-cd.yml)
+![Contributors](https://img.shields.io/github/contributors/DocDBrown/RedKangarooBootLoader)
 
 RedKangarooBootLoader is an open-source, Rust-based bootloadeer system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible bootloader built entirely with Rust for RedKangarooOS. This is a long term project...
 
