@@ -1,0 +1,11 @@
+ARCHS := arm i386-pc i386 mips powerpc sparc64
+
+all: $(ARCHS)
+
+$(ARCHS):
+	cargo build --target $@
+
+test:
+	for arch in $(ARCHS); do \
+		./test_bootloader.sh $$arch; \
+	done
