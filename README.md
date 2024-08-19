@@ -5,7 +5,7 @@
 ![Build Status](https://img.shields.io/github/actions/workflow/status/DocDBrown/RedKangarooBootLoader/build-cd.yml)
 ![Contributors](https://img.shields.io/github/contributors/DocDBrown/RedKangarooBootLoader)
 
-RedKangarooBootLoader is an open-source, Rust-based bootloader system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible bootloader built entirely with Rust for RedKangarooOS. This is a long term project...
+RedKangarooBootLoader is an open-source, Rust-based bootloader system designed for performance, security, and scalability. This project aims to provide a modern, efficient, and flexible bootloader built entirely with Rust for RedKangarooOS. This is a long term project and will take time to complete...
 
 Our Overview Website is at www.redkangaroo-os.com
 
