@@ -48,7 +48,8 @@ Before you can build and test the bootlaoder, you need to install the following 
 
 ### Contributing
 
-Please see our CONTRIBUTING.md. The principle of finanical justice will apply to all contributors based on their contribution if this is operating system is comercialised.
+Please see our CONTRIBUTING.md. The principle of finanical justice will apply to all contributors based on their contribution if this is operating system is comercialised. If no-one lese contributes I guarnatee 100%
+that I will continue nad finish the project myself. I remain resolute in my decisions and maintain my principles of integrity, justice, hard work and respect for other people.
 
 ### Development with GitHub Codespaces
 
